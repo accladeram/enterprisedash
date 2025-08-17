@@ -1,0 +1,17 @@
+# Power BI Project cache
+*.pbip-cache/
+
+# Power BI Desktop temp files
+*.tmp
+*.bak
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code settings (optional)
+.vscode/
